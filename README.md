@@ -9,8 +9,6 @@ About This Project:
 -   🔥 Fetch Search History
 -   🐱‍👤 Get Similar Movies/Tv Shows
 -   💙 Awesome Landing Page
--   🌐 Deployment
--   🚀 And Many More Cool Features
 
 ### Setup .env file
 
